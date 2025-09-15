@@ -4,7 +4,7 @@ Primera parte dedicada a las notas del curso.
 
 ## Parte 2
 
-* Enlace a GitHub: [Segundo repositorio]()
+* Enlace a GitHub: [Segundo repositorio](https://github.com/JoseDev155/autocad-udemy-parametric-design-p2-exercises)
 
 ## Detalles del curso
 
